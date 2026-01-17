@@ -1,4 +1,4 @@
-#neovimの設定
+# neovimの設定
 
 ## プロジェクト概要
 このプロジェクトはneovimの設定を行っています。kickstart.nvimのフォークです。
